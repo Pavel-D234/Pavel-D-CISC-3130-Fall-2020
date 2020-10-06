@@ -1,0 +1,3 @@
+The file is read line by line and then sorted using a stream sort.
+The sorted result is then print in alphabetical order.
+All parts of the code have been tested seperately and should work, with the exception of the part that reads the initial file. That part may not work.
